@@ -1,1 +1,1 @@
-# qta-coffee-app
+# QTA Coffee Order App
